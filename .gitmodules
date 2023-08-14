@@ -1,0 +1,6 @@
+[submodule "custom_nodes/ComfyUI-Manager"]
+	path = custom_nodes/ComfyUI-Manager
+	url = git@github.com:starburst997/ComfyUI-Manager.git
+[submodule "custom_nodes/comfy_controlnet_preprocessors"]
+	path = custom_nodes/comfy_controlnet_preprocessors
+	url = git@github.com:starburst997/comfy_controlnet_preprocessors.git
